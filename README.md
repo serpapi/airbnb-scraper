@@ -512,6 +512,10 @@ Use SerpApi APIs without writing code:
 - [Google Maps Scraper](https://github.com/serpapi/google-maps-scraper): places on Google Maps
 - [Eventbrite Scraper](https://github.com/serpapi/eventbrite-scraper): events in a city from Eventbrite
 
+## Resources
+
+- [How to Scrape Airbnb Data](https://serpapi.com/blog/how-to-scrape-airbnb-data/)
+
 ## Contact
 
 Feel free to reach out at [contact@serpapi.com](mailto:contact@serpapi.com).
